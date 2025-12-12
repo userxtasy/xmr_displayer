@@ -4,6 +4,6 @@
 
  "custom/xmr": {
 		"format": "{}",
-		"interval": 5,
+		"interval": 60,
 		"exec": "/home/xtasys/.scripts/crypto.sh",
 	},
