@@ -1,0 +1,9 @@
+	"modules-center": [
+		"custom/xmr"
+	],
+
+ "custom/xmr": {
+		"format": "{}",
+		"interval": 5,
+		"exec": "/home/xtasys/.scripts/crypto.sh",
+	},
