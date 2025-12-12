@@ -9,3 +9,9 @@ the logo are from Nerd Font.
 
 
 ps : im a bit lazy to write a well-written readme.md. might change it later ! ( or not ) 
+
+
+# update from 12-12-25 
+
+this morning i did the waybar part which consists in configuring the waybar config file and then reloading waybar. little problem is there was no output on the waybar. 
+waybar and "while true" doesn't go well together ! so the "while true" part will be dealed by waybar with the argument "interval" : 5, 
